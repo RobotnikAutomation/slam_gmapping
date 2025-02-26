@@ -150,5 +150,5 @@ class SlamGMapping
     
     double transform_publish_period_;
     double tf_delay_;
-    bool publish_inverted_trasnform_;
+    bool publish_inverted_transform_;
 };
